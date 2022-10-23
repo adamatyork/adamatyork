@@ -1,5 +1,5 @@
 👋 Hi, I’m @adamatyork <br>
-👀 I’m interested in dotnet, react, typescript, and motorbikes <br>
+👀 I’m interested in dotnet, swift, react, typescript, and motorbikes <br>
 🌱 I’m currently working on my own simple programming language, Neil <br>
 📫 Reach me by owl or by snail
 
