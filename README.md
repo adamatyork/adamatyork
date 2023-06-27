@@ -1,5 +1,5 @@
 👋 Hi, I’m @adamatyork, Software Engineer at [Hudl](https://www.hudl.com) <br>
-👀 I’m interested in dotnet, swift, react, typescript, and motorbikes <br>
+👀 I’m interested in dotnet, swift, fieldsports and motorbikes 🐕 🏍️ <br>
 📫 Find me on [LinkedIn](https://uk.linkedin.com/in/adammartindev)
 
 <!---
